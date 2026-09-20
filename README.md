@@ -4,7 +4,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Status: In Progress](https://img.shields.io/badge/Status-PCB%20Design%20Phase-orange.svg)](#-objectif-actuel--conception-du-pcb-sur-kicad)
-[![KiCad](https://img.shields.io/badge/EDA-KiCad%20v8.0-blue.svg)](https://www.kicad.org/)
+[![KiCad](https://img.shields.io/badge/EDA-KiCad%20v10.0-blue.svg)](https://www.kicad.org/)
 [![MCU: STM32G4](https://img.shields.io/badge/MCU-STM32G431RBT6-red.svg)](https://www.st.com/)
 
 Projet d'ingénierie embarquée visant à concevoir de zéro un robot mobile autonome capable de repérer, trier et collecter des déchets (canettes métalliques rouges et vertes) sur une maquette bordée.
